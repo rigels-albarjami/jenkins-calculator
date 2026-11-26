@@ -12,6 +12,7 @@ jenkins-calculator/
 ├── Jenkinsfile              # the checklist Jenkins follows
 └── jenkins-setup/Dockerfile # Jenkins with Python installed
 ```
+CI: Jenkins multibranch pipeline
 
 ## 1. Try it on your computer first (optional)
 
